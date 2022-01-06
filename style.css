@@ -1,0 +1,56 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.Bd-color{
+    color:green;
+}
+#for-border h1{
+    border-left:5px solid crimson;
+    border-radius: 5px;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+}
+  .placing{
+      width:50%;
+      margin:20px;
+  }  
+  .open-link{
+      color:ghostwhite;
+      font-weight:500;
+      text-decoration: none;
+      background-image:linear-gradient(blue,purple) ;
+      padding:5px 8px;
+      border-radius:5px;
+  }
+#text{
+    text-align: center;
+}
+#bg-1{
+    background-color: peachpuff;
+    padding:20px;
+    border-radius: 5px;;
+}
+#bg-2{
+    background-color:skyblue;
+    padding:20px;
+    border-radius:5px;
+
+}
+   
+#bg-3{
+background-color: silver;
+padding:20px;
+border-radius: 5px;
+}
+.text-color{
+    background-color:rgb(10, 184, 184);
+    padding: 12px;
+   border-radius:20px 15px;
+}
